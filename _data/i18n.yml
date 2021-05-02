@@ -27,6 +27,7 @@ en: &en
   tags: 'Tags'
   theme_info: '<p><small>Theme <a href="https://github.com/yizeng/jekyll-theme-simple-texture" target="_blank">Simple Texture</a> developed by <a href="https://yizeng.me" target="_blank">Yi Zeng</a>, powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.</small></p>'
   view: 'View'
+  imprint: 'Imprint'
 en-us:
   <<: *en
 en-gb:
